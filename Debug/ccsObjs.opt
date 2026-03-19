@@ -1,0 +1,11 @@
+"./SelfBalancingRobot.obj"
+"./clock.obj"
+"./gpio.obj"
+"./i2c0.obj"
+"./rgb_led.obj"
+"./spi1.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./uart0.obj"
+"./wait.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
